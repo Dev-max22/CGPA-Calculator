@@ -1,0 +1,41 @@
+{
+    "": {
+        "Semester": "First_Semester",
+        "LEVEL": "",
+        "DEPT": "",
+        "": ""
+    },
+    "name": {
+        "Semester": "Second_Semester",
+        "LEVEL": "100",
+        "DEPT": "Mechanical Engineering",
+        "CHM 102": "A",
+        "MTH 102": "A",
+        "GST 102": "A",
+        "PHY 102": "A",
+        "MTH 104": "A",
+        "CHM 108": "A",
+        "PHY 108": "A",
+        "GST 106": "A",
+        "GST 108": "A",
+        "MEE 102": "A",
+        "Second_semester_GPA": 5.0
+    },
+    "Adeyemi Mary": {
+        "Semester": "First_Semester",
+        "LEVEL": "100",
+        "DEPT": "Mechanical Engineering",
+        "CHM 101": "A",
+        "MTH 101": "A",
+        "CPE 101": "A",
+        "GST 101": "A",
+        "GST 103": "A",
+        "PHY 101": "A",
+        "PHY 103": "A",
+        "GST 105": "A",
+        "MTH 103": "A",
+        "CHM 107": "A",
+        "PHY 107": "A",
+        "First_semester_GPA": 5.0
+    }
+}
